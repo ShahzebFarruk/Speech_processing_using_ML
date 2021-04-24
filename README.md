@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61950234/115967868-060e0880-a503-11eb-828e-4057f8bc2986.png?raw=true" alt="Sentiment Analysis Outputs"/>
+  <img src="https://user-images.githubusercontent.com/61950234/115969279-386f3400-a50a-11eb-926d-10a60cb47e9d.png?raw=true" alt="Sentiment Analysis Outputs"/>
 </p>
  
 
