@@ -1,7 +1,7 @@
+### Results
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61950234/115969279-386f3400-a50a-11eb-926d-10a60cb47e9d.png?raw=true" alt="Sentiment Analysis Outputs"/>
 </p>
- 
 
 ### Libraries Needed:
    * nltk
